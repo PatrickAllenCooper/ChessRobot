@@ -1,0 +1,13 @@
+Development Log, 10-25-19
+
+Today I got the engine import process to work with stockfish. This also updates the board state.
+
+The critical next step is to acquire the hardware and then to tie a machine to the board's state.
+
+Looking at hardware, here are some options:
+
+
+
+Will order chess board tonight.
+
+Need to set up git as well today.
