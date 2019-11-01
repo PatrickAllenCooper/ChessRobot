@@ -7,8 +7,10 @@
 
 # sets the state for a new game
 
-import chess
 import chess.engine
+from boardvis import visboard
+
+visboard.board
 
 engine = chess.engine.SimpleEngine.popen_uci("C:/Users/patri/PycharmProjects/chess-ai/stockfish/Windows/stockfish_10_x64.exe")
 
