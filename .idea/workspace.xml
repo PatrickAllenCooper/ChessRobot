@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35687d20-83d3-4fa8-8701-75ffb4d341c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/boardvis/vis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/development-log/12-24-19" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boardvis/visboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/boardvis/visboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572628532270</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Further module setup.">
+      <created>1572628724861</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572628724861</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Module setup." />
-    <option name="LAST_COMMIT_MESSAGE" value="Module setup." />
+    <MESSAGE value="Further module setup." />
+    <option name="LAST_COMMIT_MESSAGE" value="Further module setup." />
   </component>
 </project>

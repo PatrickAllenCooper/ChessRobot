@@ -12,8 +12,10 @@ from boardvis import visboard
 
 board = visboard.board
 
+
 def get_board_state():
     board = visboard.board
+
 
 engine = chess.engine.SimpleEngine.popen_uci("C:/Users/patri/PycharmProjects/chess-ai/stockfish/Windows/stockfish_10_x64.exe")
 
